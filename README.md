@@ -36,8 +36,32 @@ Physio program prescribing web application developed by Kane Campbell, Steve Tod
 ## Wireframes (Responsive Design)
 
 
+
 ## Trello
 
+### 17/01/22 (Tuesday)
+
+![Trello 17.01](./markdownImages/Trello_Screenshot_17.01.png)
+
+As a team we begun confirming what our idea would look like, what features we could add and what would be a bonus if we had time. After we were happy with this, we set out to divide our tasks and used Trello to motivate the team. We would assist on individual tasks if our team needed help.
+
+- Kane begun with wireframes.
+- Steve worked on user stories templates, the description of the application and sitemap imagination.
+- Oliver worked on the Trello board, setting up the git repo and assisting Steve with the vision of the project.
+
+### 18/01/22 (Wednesday)
+
+![Trello 18.01](./markdownImages/Trello%2018.01.png)
+
+After having our organisational process set up and our idea cemented, we continued on our work from yesterday. Kane continued to work on our design element; throwing design ideas for us to agree on and further getting through the task of the wireframes.
+
+Steve was tasked with the software architecture diagram as well as helping Oliver to get across the data flow diagram.
+
+Oliver worked on the data flow diagram with Steve and found the collaboration made it a smoother process of understanding. 
+
+The team also sought help from the support educator on campus (Iryna) to understand what the database/collections/documents would look like so future structural of integration could be mitigated.
+
+### 19/01/22 (Thursday)
 
 <!-- KEY QUESTIONS -->
 

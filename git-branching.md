@@ -31,6 +31,8 @@
 
 ```git add .```
 
+<!-- Use . if you want to update everything, otherwise use git status to view files that have changed to be more specific. -->
+
 ```git commit -m "branch commit"```
 
 (NOTE: The changes here have not been merged to the master code yet. This is just saving to your branch you are working on.)
@@ -59,9 +61,9 @@ Create a new pull request on github to request a merge of your feature branch to
 
 7. Pull the merged changes into your local main so that you're working from the new changes.
 
-```git checkout main```
+```git checkout master```
 
-```git pull origin main```
+```git pull origin master```
 
 
 8. Delete your feature branch
