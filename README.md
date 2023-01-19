@@ -27,8 +27,19 @@ Physio program prescribing web application developed by Kane Campbell, Steve Tod
 - Key Dependencies/Packages
 - Maybe any public APIs used?
 
-## Dataflow Diagram
+## Data Flow Diagrams
 
+The Data Flow Diagram task was split up into two diagrams so that it would be easier to understand and read. This is because there is one user entity and over 30 processes of data moving back and forth. As such, we divided the diagram by collection; one for the user collection and the other for the program collection.
+
+It is important to note that for the program collection DFD, it is implied that the user is logged in/authorized and that that data process has already been completed.
+
+### User Collection Data Flow Diagram
+
+![User Collection Data Flow Diagram](./markdownImages/User%20Collection%20DFD%20yes.png)
+
+### Program Collection Data Flow Diagram
+
+![Program Collection Data Flow Diagram](./markdownImages/Programs%20DFD%20yes.png)
 
 ## Application Architecture Diagram
 
@@ -59,7 +70,7 @@ Steve was tasked with the software architecture diagram as well as helping Olive
 
 Oliver worked on the data flow diagram with Steve and found the collaboration made it a smoother process of understanding. 
 
-The team also sought help from the support educator on campus (Iryna) to understand what the database/collections/documents would look like so future structural of integration could be mitigated.
+The team also sought help from the support educator on campus (Iryna) to understand what the database/collections/documents would look like so future structural problems of integration could be mitigated.
 
 ### 19/01/22 (Thursday)
 
