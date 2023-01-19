@@ -94,11 +94,8 @@ The team also sought help from the support educator on campus (Iryna) to underst
 
 ### 19/01/22 (Thursday)
 
-<!-- KEY QUESTIONS -->
+![Trello 19.01](./markdownImages/Trello%2019.01.png)
 
-<!-- 1. Can the instructor create exercises or should they pulled from an API/DB  -->
+The team reconvened on campus to consolidate the last few sections of the documentation. 
 
-<!-- Seeding exercises, own database, instructor can add exercises. -->
-
-
-<!-- 2. Working out the admin login. -->
+Kane completed the wireframes and uploaded these to github. Steve completed the user stories, and merged this as well as his task info & software architecture diagram into the repo. Oliver assisted with merging the individual tasks we were working on and submitted his trello screenshots & data flow diagrams.
