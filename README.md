@@ -66,6 +66,16 @@ It is important to note that for the program collection DFD, it is implied that 
 
 ## Wireframes (Responsive Design)
 
+![Wireframe 1](./markdownImages/Wireframe1.png)
+![Wireframe 2](./markdownImages/Wireframe2.png)
+![Wireframe 3](./markdownImages/Wireframe3.png)
+![Wireframe 4](./markdownImages/Wireframe4.png)
+![Wireframe 5](./markdownImages/Wireframe5.png)
+![Wireframe 6](./markdownImages/Wireframe6.png)
+![Wireframe 7](./markdownImages/Wireframe7.png)
+![Wireframe 8](./markdownImages/Wireframe8.png)
+![Wireframe 9](./markdownImages/Wireframe9.png)
+![Wireframe 10](./markdownImages/Wireframe10.png)
 
 
 ## Trello
