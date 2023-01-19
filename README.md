@@ -1,31 +1,50 @@
 # T3-A2
 Physio program prescribing web application developed by Kane Campbell, Steve Todorovic and Oliver Wong
 
-## The Purpose of "App"
+## The Purpose of our App
 
-### Task Outline
+We hope to provide individuals with a tool that enables them to create bespoke exercise programs and track their progress. The programs will comprise of individual exercises either created by the user, or chosen from a list of provided exercises. The user will be able to track the completion of the exercises on a day by day basis from a progress bar that will fill up dynamically until the all the exercises assigned for the day are completed. Users will be able to sign up and log into their account which will contain any routines they have been created ans a summery of completed results and their account details.  
 
-### Target Audience
+## Target Audience
 
-### User Stories + Agile Goal Setting
+- Physical rehabilitation patients 
+- People new to exercise
+- Elderly people looking to start exercising
+- Athletes
+- People lacking motivation to exercise
 
-### Functionality
-- App has a practitioner/instructor. They prescribe a generated program to the students using a database collection of exercises.
-- The practitioner has the ability to set the human-readable instructions that may be personalized to the student's needs.
-- Users have full CRUD capability of their own profiles, can sign out.
-- Admins have full CRUD capability of their programs. Ability to update sequentially as the patient moves through treatment.
-### Features
-- Sign-Up/Login
-- Notes that the admin and patient can write on the program, to engage in light discourse about how the program is going. (Dated)
+## User Stories
 
-### Tech Stack
-- MERN
-- "Wireframes program"
-- "Dataflow Diagram program"
-- "Application Architecture Diagram program"
-- "Trello"
+### User Story One - Jason (Rehab Patient)
+
+![User Story 1](./markdownImages/User_Story_1.png)
+
+### User Story Two - Judy (Athlete)
+
+![User Story 1](./markdownImages/User_Story_2.png)
+
+### User Story Three - Elaine (Active Senior)
+
+![User Story 1](./markdownImages/User_Story_3.png)
+
+## Functionality & Features   
+
+The main feature will be exercise/pose instructions (cards) with diagrams or pictures to help explain movements and technique. Each exercise card will contain relevant information on the exercise and an image or instructional diagram. The information that can be including will consist of repetitions, time to hold certain positions and any other instructions the user might want to include. The images and diagrams will give a visual representation of the exercise to guide the student. The users will be able to tick off exercises as they complete them.  
+
+***Additional Features***  
+
+The first of the additional features will be the feedback mechanism. This will give users the ability to gather valuable information which in turn will help the user increase or decrease the intensity of the program depending on their progression. The information that will be tracked with the feedback feature will include the difficulty to perform the exercise and a level of discomfort (pain) experienced during the exercise. The level of discomfort and difficulty feedback systems will use a rating system from one to ten.  
+
+A visualisation of the users progression in the form of a graph, using information obtained from their exercise feedback. This will give both the user a visual overview of the students journey, and allow for closer analysis of patterns that may emerge. The information to be presented will be exercise completion, overall pain during a routine and overall difficulty of a routine.  
+
+## Tech Stack
+- MERN Stack
+- Figma
+- Draw.IO
+- Trello
+- Canva
 - Key Dependencies/Packages
-- Maybe any public APIs used?
+- Railway
 
 ## Data Flow Diagrams
 
@@ -43,6 +62,7 @@ It is important to note that for the program collection DFD, it is implied that 
 
 ## Application Architecture Diagram
 
+![ Application Architecture Diagram Diagram](./markdownImages/AAD_Physio_App_V2.png)
 
 ## Wireframes (Responsive Design)
 
